@@ -5,7 +5,7 @@ import Contact from '../components/Contact/Contact'
 import Projects from '../components/Project/Projects'
 import Qualification from '../components/Qualification/Qualification'
 import About from '../components/About/About'
-import Skills from '../components/skill/skills.jsx'
+import Skills from '../components/skill/skills'
 
 function Main() {
   return (
